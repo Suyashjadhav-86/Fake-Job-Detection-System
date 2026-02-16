@@ -29,13 +29,7 @@ This system helps identify fraudulent job posts automatically.
 - Input validation
 - Admin dashboard (optional)
 
-## ▶️ How to Run
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-
-
-## 📊 Dataset Information
+##📊 Dataset Information
 
 The dataset used in this project is too large to upload to GitHub.
 
@@ -45,4 +39,12 @@ https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction
 After downloading, place the file in the project root directory and rename it as:
 
 fake_job_postings.csv
+
+
+## ▶️ How to Run
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+
+
 
